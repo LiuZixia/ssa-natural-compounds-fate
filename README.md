@@ -1,0 +1,14 @@
+A Quantitative Workflow for Assessing the Physicochemical Fate of Natural Compounds in Sea Spray Aerosol.
+
+Zixia Liua,*, Yunmeng Lib, Eveline Dioperea, Maarten De Rijckeb, Colin R. Janssena, Jana Asselmana
+a: Blue Growth Research Lab, Ghent University, Wetenschapspark 1, Bluebridge, 8400 Oostende, Belgium. 
+b: Flanders Marine Institute (VLIZ), Research Division, Ocean and Human Health, InnovOcean Campus, Jacobsenstraat 1, 8400, Oostende, Belgium
+*: Corresponding author: Zixia Liu (zixia.liu@ugent.be)
+
+CRediT authorship contribution statement
+ZL: Conceptualization, Data curation, Methodology, Software, Writing – original draft. YL: Methodology, Data curation, Writing – review & editing. ED: Data curation, Methodology, Writing – review & editing. MDR: Methodology, Writing – review & editing. CJ: Supervision, Writing – original draft. JA: Conceptualization, Project administration, Supervision, Writing – review & editing.
+
+Abstract
+Sea spray aerosol (SSA) is a major natural particle source and a direct pathway for ocean-derived chemicals to enter coastal air, yet chemical attribution is hindered by complex mixtures and sparse compound identification. We present a reproducible, process-informed screening workflow to prioritize marine natural compounds that are physically plausible contributors to SSA organic composition. Using MarineNP (74,507 candidates) as a structure-resolved hypothesis space, we integrate physicochemical descriptors with screening-level EPI Suite estimates to represent three necessary steps for exposure relevance: enrichment at the sea surface microlayer (SSML), aerosolization and condensed-phase retention, and atmospheric persistence. Two mechanistic descriptor modules (enrichment; aerosolization) were clustered into interpretable physicochemical families (16 and 18 clusters) using a stable two-stage k-means strategy. Atmospheric half-lives from AOPWIN provided an orthogonal fate filter, with OH lifetimes used as a conservative discriminator. We then anchored clusters to literature evidence (53 reference records) to summarize cluster-level enrichment and aerosolization factors and assess rank stability. Combining top-ranked clusters with an OH persistence threshold (>0.5 h) produced prioritized sets of 20,926 (enrichment) and 12,878 (aerosolization); their overlap contained 6,138 candidates, reduced to 4,364 in the triple intersection with stability. Forty literature references fell within this final set. The workflow yields an interpretable, updateable prioritization map and candidate list to guide targeted SSA chemical analysis and exposure-relevant hypothesis testing.
+
+Keywords: Sea spray aerosol; sea surface microlayer; marine natural products; physicochemical screening; clustering; vapor pressure; atmospheric lifetime; OH oxidation; chemical prioritization; exposure relevance
