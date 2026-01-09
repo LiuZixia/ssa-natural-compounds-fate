@@ -1,0 +1,41 @@
+molecule_id,cluster_e,cluster_a,aop_oh_half_life_hours,is_stable,source_type,reference_doi,remarks,timestamp,input_type,conc_bsw,conc_sml,conc_ssa,direct_factor_value,direct_factor_type
+1312,3,7,1.224,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:31:56Z,Concentrations,15.39,17.56,6.04,NA,NA
+1312,3,7,1.224,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:38:23Z,Direct Factor,NA,NA,NA,2.8,Enrichment Factor (SML/BSW)
+1312,3,7,1.224,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:38:55Z,Direct Factor,NA,NA,NA,73,Aerosolization Factor (SSA/SML)
+1396,3,7,1.224,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:39:18Z,Direct Factor,NA,NA,NA,151,Aerosolization Factor (SSA/SML)
+1396,3,7,1.224,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:39:30Z,Direct Factor,NA,NA,NA,1.9,Enrichment Factor (SML/BSW)
+4125,3,7,2.904,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:20:38Z,Concentrations,2.15,0.88,0.66,NA,NA
+4775,3,7,3.036,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:28:59Z,Concentrations,1.65,4.19,1.33,NA,NA
+5343,3,7,3.24,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:45:19Z,Concentrations,17.66,7.33,12.35,NA,NA
+5708,2_1,7,9.468,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:25:55Z,Concentrations,0.011,0.002,NA,NA,NA
+5708,2_1,7,9.468,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:26:09Z,Concentrations,0.029,0.172,NA,NA,NA
+5708,2_1,7,9.468,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:53:20Z,Concentrations,0.023,0.033,NA,NA,NA
+5708,2_1,7,9.468,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:53:48Z,Concentrations,0.034,0.189,NA,NA,NA
+5873,3,7,3.648,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:46:17Z,Concentrations,5.56,13.67,11.67,NA,NA
+5876,3,7,1.668,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:36:00Z,Concentrations,8.59,6.06,7.15,NA,NA
+5994,3,7,1.7279999999999998,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:44:29Z,Concentrations,8.56,8.73,8.75,NA,NA
+5994,3,7,1.7279999999999998,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:43:23Z,Direct Factor,NA,NA,NA,104,Aerosolization Factor (SSA/SML)
+5994,3,7,1.7279999999999998,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:43:33Z,Direct Factor,NA,NA,NA,5,Enrichment Factor (SML/BSW)
+6086,3,7,3.132,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:42:55Z,Concentrations,0.19,4.87,6.16,NA,NA
+6179,3,7,3.144,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:43:42Z,Concentrations,12.87,4.77,3.7,NA,NA
+6202,3,7,1.548,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:43:21Z,Concentrations,1.59,3.98,4.79,NA,NA
+6323,3,7,3.012,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:33:19Z,Concentrations,0.19,1.73,0.63,NA,NA
+6712,3,7,4.584,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:46:38Z,Concentrations,23.68,29.37,35.33,NA,NA
+6738,3,7,1.7279999999999998,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:44:05Z,Concentrations,7.24,9.63,5.52,NA,NA
+6738,3,7,1.7279999999999998,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:41:23Z,Direct Factor,NA,NA,NA,82,Aerosolization Factor (SSA/SML)
+6738,3,7,1.7279999999999998,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:41:33Z,Direct Factor,NA,NA,NA,5,Enrichment Factor (SML/BSW)
+6983,3,7,2.28,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:42:32Z,Direct Factor,NA,NA,NA,4,Enrichment Factor (SML/BSW)
+6983,3,7,2.28,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:42:45Z,Direct Factor,NA,NA,NA,122,Aerosolization Factor (SSA/SML)
+15203,3,7,9.276,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:52:38Z,Concentrations,0.019,0.022,NA,NA,NA
+15234,3,7,1.7279999999999998,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:44:54Z,Direct Factor,NA,NA,NA,30,Aerosolization Factor (SSA/BSW)
+15234,3,7,1.7279999999999998,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:45:00Z,Direct Factor,NA,NA,NA,1.8,Enrichment Factor (SML/BSW)
+34818,3,7,1.26,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:38:28Z,Concentrations,3.21,1.91,9.87,NA,NA
+36050,3,7,1.62,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:35:36Z,Concentrations,8.82,8.91,1.76,NA,NA
+36050,3,7,1.62,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:44:11Z,Direct Factor,NA,NA,NA,1.2,Enrichment Factor (SML/BSW)
+36050,3,7,1.62,TRUE,Wetlab,https://doi.org/10.1021/acs.est.6b02988,NA,2025-12-18T16:44:36Z,Direct Factor,NA,NA,NA,24,Aerosolization Factor (SSA/BSW)
+38729,3,7,3.036,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:45:53Z,Concentrations,16.39,24.42,18.68,NA,NA
+72087,3,7,2.736,TRUE,Field Sample,doi.org/10.5194/acp-23-6571-2023,NA,2025-12-18T15:44:57Z,Concentrations,17.94,4.43,4.45,NA,NA
+75317,2_1,7,7.692,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:16:37Z,Concentrations,0.028,0.123,NA,NA,NA
+75317,2_1,7,7.692,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:58:45Z,Concentrations,0.007,0.015,NA,NA,NA
+75317,2_1,7,7.692,TRUE,Wetlab,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T16:04:37Z,Concentrations,0.028,0.123,NA,NA,NA
+566961,3,7,1.296,TRUE,Field Sample,doi.org/10.1016/S0304-4203(01)00049-4,NA,2025-12-18T15:55:55Z,Concentrations,0.36,1.34,NA,NA,NA

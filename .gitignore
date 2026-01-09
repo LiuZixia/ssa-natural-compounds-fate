@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Backup files
+data/raw/known_enrichment_factors/backup_*.csv
